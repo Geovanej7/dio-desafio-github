@@ -1,0 +1,1 @@
+o git bash é um console estendido para otimizar o uso do git.
